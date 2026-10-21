@@ -2,3 +2,8 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
